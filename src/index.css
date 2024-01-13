@@ -66,3 +66,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+body{
+  margin: 2rem;
+  background-color: aqua;
+}
+.active{
+  background-color:#7FC7D9;
+}
+nav ul li {
+  list-style-type: none;
+}
